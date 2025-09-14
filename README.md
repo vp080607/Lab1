@@ -95,8 +95,7 @@ graph TD
 
 Нужно вставить код прямо в отчет в блок:
 
-```markdown
-
+```java
 import java.io.PrintStream;
 import java.util.Scanner;
 
@@ -141,7 +140,6 @@ public class Main {
             out.print(0);
     }
 }
-
 ```
 
 ### 6. Анализ правильности решения
