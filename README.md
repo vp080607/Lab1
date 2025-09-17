@@ -93,8 +93,6 @@ graph TD
 
 Полный текст программы с комментариями на русском языке
 
-Нужно вставить код прямо в отчет в блок:
-
 ```java
 import java.io.PrintStream;
 import java.util.Scanner;
