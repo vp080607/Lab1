@@ -9,11 +9,11 @@ public class Main {
 
     public static void main(String[] args) {
         // Считывание пяти натуральных чисел A, B, C, D и X из консоли
+        int X = in.nextInt();        
         int A = in.nextInt();
         int B = in.nextInt();
         int C = in.nextInt();
         int D = in.nextInt();
-        int X = in.nextInt();
 
         // Сравнение диаметра первого шарика с диаметром отверстия.
         // Если первый шарик меньше, то можем сравнивать диаметр следующего шарика.
